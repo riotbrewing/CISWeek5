@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+*
+{
+	box-sizing: border-box;
+}
+body
+{
+	background-color: #e6dfcc;
+}
+
+
+.jumbo
+{
+	background-color: #870e1a;	
+	text-align: center;
+	font-family: 'Righteous', cursive;
+	border: solid black 2px;
+	border-radius: 15px;
+}
+form
+{
+	background-color: #bfb699;	
+	padding: 20px;
+	font-family: 'Righteous', cursive;
+	border: solid black 2px;
+	border-radius: 15px;
+}
+label
+{
+	font-family: 'Righteous', cursive;
+}
+input
+{
+	font-family: 'Righteous', cursive;
+}
+
+.button-color
+{
+	background-color: #870e1a;	
+	color: white;
+}
